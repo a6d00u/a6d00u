@@ -4,14 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Web+Developer;Information+Systems+Security+Student;Always+learning+new+technologies" alt="Typing SVG" />
 </div>
 
-## 👨‍💻 About Me
-
-I'm a passionate Full Stack Web Developer and Information Systems Security Student. I love building web applications and exploring new technologies to solve real-world problems.
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile views"/>
-</p>
-
 ## 🛠️ Tech Stack
 
 <p align="center">
