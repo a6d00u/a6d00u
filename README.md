@@ -53,22 +53,17 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://linkedin.com/in/abdellah-chaibdraa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:a6d00u.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://twitter.com/your-twitter" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://your-portfolio-website.com" target="_blank">
+  <a href="https://coming-soon.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-1F1F1F?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
----
-
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
-</div>
