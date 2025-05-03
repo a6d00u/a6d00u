@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt"POSTMAN"/>
   <img src="https://img.shields.io/badge/Java_EE-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java EE"/>
   <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++"/>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
