@@ -50,7 +50,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=a6d00u&theme=nord&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=a6d00u&theme=nord&column=6" alt="GitHub Trophies"/>
 </div>
 
 ## 📫 Connect With Me
