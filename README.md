@@ -1,7 +1,7 @@
 # Hi there, I'm Abdellah CHAIB DRAA 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Web+Developer;Information+Systems+Security+Student;Always+learning+new+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Web+Developer;Information+Systems+Security+Engineer;Always+learning+new+Technologies" alt="Typing SVG" />
 </div>
 
 ## 🛠️ Tech Stack
