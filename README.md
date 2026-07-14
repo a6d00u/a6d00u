@@ -63,7 +63,7 @@
   <a href="mailto:a6d00u.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="[https://coming-soon.com](https://portfolio.abdouchaibdraa.workers.dev/)" target="_blank">
+  <a href="https://portfolio.abdouchaibdraa.workers.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-1F1F1F?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
